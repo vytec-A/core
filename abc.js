@@ -1,1 +1,3 @@
 node js
+class abc{
+}
